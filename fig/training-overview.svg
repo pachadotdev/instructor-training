@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="759.37048"
+   height="688.07709"
+   viewBox="0 0 200.91677 182.05373"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker3657"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#a02c2c;fill-opacity:1;fill-rule:evenodd;stroke:#a02c2c;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path3655" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3079"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#88aa00;fill-opacity:1;fill-rule:evenodd;stroke:#88aa00;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path3077" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2997"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#88aa00;fill-opacity:1;fill-rule:evenodd;stroke:#88aa00;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path2995" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2855"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#d4aa00;fill-opacity:1;fill-rule:evenodd;stroke:#d4aa00;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path2853" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2667"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#a02c2c;fill-opacity:1;fill-rule:evenodd;stroke:#a02c2c;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path2665" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2657"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#a02c2c;fill-opacity:1;fill-rule:evenodd;stroke:#a02c2c;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path2655" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2213"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#a02c2c;fill-opacity:1;fill-rule:evenodd;stroke:#a02c2c;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path2211" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DotM"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path1493" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1444" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1453" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1450" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1429" />
+    </marker>
+    <rect
+       style="opacity:0.996;fill:none;stroke:#000000;stroke-width:0.251688;stroke-linecap:round;stroke-linejoin:round"
+       id="rect30-5"
+       width="65.342209"
+       height="27.443951"
+       x="3.8679488"
+       y="24.197781" />
+    <rect
+       style="opacity:0.996;fill:none;stroke:none;stroke-width:0.251688;stroke-linecap:round;stroke-linejoin:round"
+       id="rect30-0"
+       width="63.150555"
+       height="9.935998"
+       x="3.8679488"
+       y="24.197781" />
+    <rect
+       style="opacity:0.996;fill:none;stroke:none;stroke-width:0.251688;stroke-linecap:round;stroke-linejoin:round"
+       id="rect30-3-6"
+       width="58.89349"
+       height="6.8629389"
+       x="4.0044937"
+       y="60.079155" />
+    <rect
+       style="opacity:0.996;fill:none;stroke:none;stroke-width:0.251688;stroke-linecap:round;stroke-linejoin:round"
+       id="rect30-6-3"
+       width="64.589684"
+       height="15.237248"
+       x="5.078619"
+       y="95.408043" />
+    <rect
+       style="opacity:0.996;fill:none;stroke:none;stroke-width:0.251688;stroke-linecap:round;stroke-linejoin:round"
+       id="rect30-7-6"
+       width="65.221764"
+       height="14.553415"
+       x="2.9798694"
+       y="132.50778" />
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-11.535334,-8.0303838)">
+    <rect
+       style="opacity:0.996;fill:#d9ed92;fill-opacity:1;stroke:none;stroke-width:0.311127;stroke-linecap:round;stroke-linejoin:round"
+       id="rect103-9"
+       width="74.688873"
+       height="36.688873"
+       x="14.181168"
+       y="150.7494" />
+    <g
+       id="g88"
+       transform="translate(15.87463,22.864084)"
+       style="stroke:none">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect30-7);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="14.257477"
+         y="147.72214"
+         id="text28"
+         transform="translate(-0.1933187,3.270904)"><tspan
+           x="8.72605"
+           y="137.75714"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;stroke:none;stroke-width:0.264583px">Know where to go for </tspan></tspan><tspan
+           x="4.573152"
+           y="144.8127"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;stroke:none;stroke-width:0.264583px">help and getting engaged </tspan></tspan><tspan
+           x="10.791889"
+           y="151.86826"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;stroke:none;stroke-width:0.264583px">with the community</tspan></tspan></text>
+      <rect
+         style="opacity:0.996;fill:none;stroke:none;stroke-width:0.251688;stroke-linecap:round;stroke-linejoin:round"
+         id="rect30-7"
+         width="65.342209"
+         height="27.443951"
+         x="2.9798694"
+         y="132.50778" />
+    </g>
+    <g
+       id="g202"
+       transform="translate(13.410774,3.7584396)"
+       style="stroke:none">
+      <rect
+         style="opacity:0.996;fill:#b5e48c;fill-opacity:1;stroke:none;stroke-width:0.311127;stroke-linecap:round;stroke-linejoin:round"
+         id="rect103-2"
+         width="74.688873"
+         height="36.688873"
+         x="0.77039409"
+         y="104.47002" />
+      <g
+         id="g83"
+         transform="translate(0.3651073,13.684435)"
+         style="stroke:none">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect30-6);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="19.920877"
+           y="124.99913"
+           id="text24"
+           transform="translate(-0.23218861,3.2570016)"><tspan
+             x="5.3683694"
+             y="100.65753"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;stroke:none;stroke-width:0.264583px">Practice and develop skills </tspan></tspan><tspan
+             x="9.1345934"
+             y="107.71308"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;stroke:none;stroke-width:0.264583px">in Carpentries teaching </tspan></tspan><tspan
+             x="26.962518"
+             y="114.76863"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;stroke:none;stroke-width:0.264583px">methods</tspan></tspan></text>
+        <rect
+           style="opacity:0.996;fill:none;stroke:none;stroke-width:0.251688;stroke-linecap:round;stroke-linejoin:round"
+           id="rect30-6"
+           width="65.342209"
+           height="27.443951"
+           x="5.078619"
+           y="95.408043" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="51.593334"
+       y="18.008348"
+       id="text12"><tspan
+         id="tspan10"
+         x="51.593334"
+         y="18.008348"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;stroke-width:0.264583px">Training goals</tspan></text>
+    <g
+       id="g188"
+       transform="matrix(0.99291505,0,0,0.99291505,10.605207,-0.70982117)"
+       style="stroke:none">
+      <rect
+         style="opacity:0.996;fill:#76c893;fill-opacity:1;stroke:none;stroke-width:0.311127;stroke-linecap:round;stroke-linejoin:round"
+         id="rect103"
+         width="74.688873"
+         height="36.688873"
+         x="3.8679488"
+         y="24.197781" />
+      <g
+         id="g73"
+         transform="translate(4.6733322,4.6224613)"
+         style="stroke:none">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect30);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="29.185759"
+           y="77.506668"
+           id="text16"
+           transform="translate(-0.05375396,6.7854516)"><tspan
+             x="7.777893"
+             y="29.446595"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;stroke:none;stroke-width:0.264583px">How to apply research-</tspan></tspan><tspan
+             x="5.4255567"
+             y="36.502145"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;stroke:none;stroke-width:0.264583px">based teaching principles</tspan></tspan></text>
+        <rect
+           style="opacity:0.996;fill:none;stroke:none;stroke-width:0.251688;stroke-linecap:round;stroke-linejoin:round"
+           id="rect30"
+           width="65.342209"
+           height="27.443951"
+           x="3.8679488"
+           y="24.197781" />
+      </g>
+    </g>
+    <g
+       id="g195"
+       transform="translate(0,-3.1180867)"
+       style="stroke:none">
+      <rect
+         style="opacity:0.996;fill:#99d98c;fill-opacity:1;stroke:none;stroke-width:0.311127;stroke-linecap:round;stroke-linejoin:round"
+         id="rect103-6"
+         width="74.688873"
+         height="36.688873"
+         x="14.181168"
+         y="68.825592" />
+      <g
+         id="g78"
+         transform="translate(14.850006,13.368898)"
+         style="stroke:none">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect30-3);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="31.049248"
+           y="99.029091"
+           id="text20"
+           transform="translate(-0.25236452,3.8446605)"><tspan
+             x="6.3426428"
+             y="65.329407"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;stroke:none;stroke-width:0.264583px">Importance of respectful </tspan></tspan><tspan
+             x="7.6761306"
+             y="72.384957"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;stroke:none;stroke-width:0.264583px">and inclusive classroom </tspan></tspan><tspan
+             x="20.984277"
+             y="79.440507"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;stroke:none;stroke-width:0.264583px">environment</tspan></tspan></text>
+        <rect
+           style="opacity:0.996;fill:none;stroke:none;stroke-width:0.251688;stroke-linecap:round;stroke-linejoin:round"
+           id="rect30-3"
+           width="65.342209"
+           height="27.443951"
+           x="4.0044937"
+           y="60.079155" />
+      </g>
+    </g>
+    <rect
+       style="opacity:0.996;fill:#184e77;fill-opacity:1;stroke:none;stroke-width:0.311127;stroke-linecap:round;stroke-linejoin:round"
+       id="rect103-7"
+       width="74.688873"
+       height="36.688873"
+       x="135.1174"
+       y="23.186558" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect30-0);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="29.185759"
+       y="77.506668"
+       id="text16-5"
+       transform="translate(136.87128,13.64791)"><tspan
+         x="9.5415232"
+         y="29.446595"><tspan
+           style="fill:#ffffff;fill-opacity:1">How Learning Works</tspan></tspan></text>
+    <rect
+       style="opacity:0.996;fill:none;stroke:none;stroke-width:0.251688;stroke-linecap:round;stroke-linejoin:round"
+       id="rect227"
+       width="65.342209"
+       height="27.443951"
+       x="139.79073"
+       y="27.809019" />
+    <rect
+       style="opacity:0.996;fill:#1e6091;fill-opacity:1;stroke:none;stroke-width:0.311127;stroke-linecap:round;stroke-linejoin:round"
+       id="rect103-6-0"
+       width="74.688873"
+       height="36.688873"
+       x="135.1174"
+       y="65.707512" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect30-3-6);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="31.049248"
+       y="99.029091"
+       id="text20-0"
+       transform="translate(138.8625,20.286051)"><tspan
+         x="5.0498369"
+         y="65.329407"><tspan
+           style="shape-inside:url(#rect30-3-6)">Building Teaching Skills</tspan></tspan></text>
+    <rect
+       style="opacity:0.996;fill:none;stroke:none;stroke-width:0.251688;stroke-linecap:round;stroke-linejoin:round"
+       id="rect234"
+       width="65.342209"
+       height="27.443951"
+       x="139.79073"
+       y="70.329971" />
+    <rect
+       style="opacity:0.996;fill:#1a759f;fill-opacity:1;stroke:none;stroke-width:0.311127;stroke-linecap:round;stroke-linejoin:round"
+       id="rect103-2-0"
+       width="74.688873"
+       height="36.688873"
+       x="135.1174"
+       y="108.22846" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect30-6-3);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="19.920877"
+       y="124.99913"
+       id="text24-9"
+       transform="translate(134.85878,23.941224)"><tspan
+         x="14.250649"
+         y="100.65753"><tspan
+           style="shape-inside:url(#rect30-6-3)">Creating a Positive </tspan></tspan><tspan
+         x="10.296738"
+         y="107.71308"><tspan
+           style="shape-inside:url(#rect30-6-3)">Learning Environment</tspan></tspan></text>
+    <rect
+       style="opacity:0.996;fill:none;stroke:none;stroke-width:0.251688;stroke-linecap:round;stroke-linejoin:round"
+       id="rect241"
+       width="65.342209"
+       height="27.443951"
+       x="139.79074"
+       y="112.85092" />
+    <rect
+       style="opacity:0.996;fill:#168aad;fill-opacity:1;stroke:none;stroke-width:0.311127;stroke-linecap:round;stroke-linejoin:round"
+       id="rect103-9-4"
+       width="74.688873"
+       height="36.688873"
+       x="135.1174"
+       y="150.7494" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;white-space:pre;shape-inside:url(#rect30-7-6);fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="14.257477"
+       y="147.72214"
+       id="text28-3"
+       transform="translate(136.82868,29.864921)"><tspan
+         x="3.2778892"
+         y="137.75714"><tspan
+           style="shape-inside:url(#rect30-7-6)">The Carpentries History &amp; </tspan></tspan><tspan
+         x="26.444029"
+         y="144.8127"><tspan
+           style="shape-inside:url(#rect30-7-6)">Culture</tspan></tspan></text>
+    <rect
+       style="opacity:0.996;fill:none;stroke:none;stroke-width:0.251688;stroke-linecap:round;stroke-linejoin:round"
+       id="rect248"
+       width="65.342209"
+       height="27.443951"
+       x="139.79073"
+       y="155.37187" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:125%;font-family:Lato;-inkscape-font-specification:Lato;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="172.43784"
+       y="18.008348"
+       id="text12-1"><tspan
+         id="tspan10-1"
+         x="172.43784"
+         y="18.008348"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:Lato;stroke-width:0.264583px">Content modules</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.640197;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#DotM);marker-mid:url(#DotM);marker-end:url(#DotM)"
+       d="M 89.533541,42.279722 H 134.37817 L 88.745805,82.518262"
+       id="path2099" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#a02c2c;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker2213);marker-mid:url(#marker3657);marker-end:url(#marker2667)"
+       d="M 88.745805,82.518262 H 135.22629 L 88.622264,129.12229"
+       id="path2101" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#d4aa00;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker2855);marker-mid:url(#marker2855);marker-end:url(#marker2855)"
+       d="m 88.745805,82.518262 46.548095,45.259628 -46.671636,1.3444"
+       id="path2103" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#88aa00;stroke-width:0.661458;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker2997);marker-mid:url(#marker3079);marker-end:url(#marker3079)"
+       d="m 88.622264,129.12229 46.511016,43.00726 H 88.651155"
+       id="path2107" />
+  </g>
+</svg>

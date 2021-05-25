@@ -163,6 +163,10 @@ you - people who want to help researchers learn new skills
 and share their own experience and enthusiasm.  Meeting your fellow trainees and
 Instructor Trainers at today's event is your first step into The Carpentries community.
 
+
+![]({{ relative_root_path }}{% link fig/training-overview.svg %})
+
+
 ## What We Leave Out
 
 We will **not** be going over Data Carpentry, Library Carpentry, or Software Carpentry workshop content in detail (although you will gain
