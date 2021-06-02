@@ -7,11 +7,12 @@ training_site: https://carpentries.github.io/instructor-training
 
 Preparation
 -----------
-1.  Please read the following before the workshop begins:
+1.  Please fill out our short pre-workshop survey. You should receive a custom link for your workshop by email approximately 1 week before your event.
+2.  Please read the following before the workshop begins:
 * ["The Science of Learning"]({{ page.training_site }}/files/papers/science-of-learning-2015.pdf)
 * ["The Carpentries Annual Report"](https://carpentries.org/files/reports/Carpentries2020AnnualReport.pdf)
 
-2.  Please go to the [Software Carpentry lessons page]({{ site.swc_site }}/lessons/),
+3\.  Please go to the [Software Carpentry lessons page]({{ site.swc_site }}/lessons/),
     the [Data Carpentry lessons page]({{ site.dc_site}}/lessons/), or the [Library Carpentry lessons page]({{ site.lc_site}}/lessons/) 
     have a look at what we currently teach Carefully read through one episode of your choice. You will be using your selected episode for several in-class 
     exercises, so be sure you are comfortable with the content. Note: an episode is not the entire lesson, but a single page of the lesson. For a list of 
@@ -19,16 +20,16 @@ Preparation
 
 **For In-Person Events:** 
 
-3\.  We will be recording one another teaching in pairs or threes during the class,
+4\.  We will be recording one another teaching in pairs or threes during the class,
     so please bring a cell phone or hand-held camera that can record audio and video.
     It does not have to be high-quality, but it should be good enough that you can understand what someone is saying.
 
-4\.  Please also bring a laptop powerful enough to teach on so that you can take part in all of the practical exercises
+5\.  Please also bring a laptop powerful enough to teach on so that you can take part in all of the practical exercises
     (a tablet will not be sufficient).
 
 **For Online Events:**
 
-3\. Please ensure that your laptop and internet are sufficient to connect via Zoom for the full workshop. You will need to have
+4\. Please ensure that your laptop and internet are sufficient to connect via Zoom for the full workshop. You will need to have
     the bandwidth to transmit video during your practice exerises.
 
 Checkout
