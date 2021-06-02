@@ -5,7 +5,11 @@ root: .
 training_site: https://carpentries.github.io/instructor-training
 ---
 
-1.  Please read ["The Science of Learning"]({{ page.training_site }}/files/papers/science-of-learning-2015.pdf), which provides a brief overview of some key evidence-based results in teaching.
+Preparation
+-----------
+1.  Please read the following before the workshop begins:
+* ["The Science of Learning"]({{ page.training_site }}/files/papers/science-of-learning-2015.pdf)
+* ["The Carpentries Annual Report"](https://carpentries.org/files/reports/Carpentries2020AnnualReport.pdf)
 
 2.  Please go to the [Software Carpentry lessons page]({{ site.swc_site }}/lessons/),
     the [Data Carpentry lessons page]({{ site.dc_site}}/lessons/), or the [Library Carpentry lessons page]({{ site.lc_site}}/lessons/) 
@@ -13,7 +17,7 @@ training_site: https://carpentries.github.io/instructor-training
     exercises, so be sure you are comfortable with the content. Note: an episode is not the entire lesson, but a single page of the lesson. For a list of 
     recommended episodes, see below.
 
-For In-Person Events: 
+**For In-Person Events:** 
 
 3\.  We will be recording one another teaching in pairs or threes during the class,
     so please bring a cell phone or hand-held camera that can record audio and video.
@@ -22,11 +26,13 @@ For In-Person Events:
 4\.  Please also bring a laptop powerful enough to teach on so that you can take part in all of the practical exercises
     (a tablet will not be sufficient).
 
-For Online Events:
+**For Online Events:**
 
 3\. Please ensure that your laptop and internet are sufficient to connect via Zoom for the full workshop. You will need to have
     the bandwidth to transmit video during your practice exerises.
 
+Checkout
+--------
 After this course is over,
 you will be asked to do three short follow-up exercises online in order to finish qualifying as an instructor:
 the details are available in [this episode]({{ page.root }}/14-checkout/).
