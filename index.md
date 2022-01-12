@@ -4,6 +4,8 @@ root: .
 redirect_from: "http://swcarpentry.github.io/instructor-training/"
 ---
 
+## Note: This version of the Instructor Training curriculum is used during update periods for testing only and is not maintained or synced with our primary repository at other times. For the main version of our Instructor Training curriculum please visit <https://carpentries.github.io/instructor-training/>. 
+
 Welcome to The Carpentries Instructor Training curriculum! Originally released in 2016, this resource is collaboratively maintained and taught by The Carpentries Instructor Trainer community. Minor changes occur routinely; major updates are chronicled in our release history.
   
 Carpentries Instructor Training has the following goals:  
