@@ -18,25 +18,25 @@ keypoints:
 - "Learner motivation and prior knowledge vary widely, and can be quickly assessed with a multiple choice question."
 ---
 
-> ## Pronouns and Names
->
-> Using correct names and pronouns (e.g. "she/her") is important to setting a tone of respect. Learning these is hard to
-> do quickly, so we recommend displaying it prominently during the workshop.
->
-> In an online workshop, give everyone a moment to update their display name to reflect how they would like to be addressed.
->
-> At an in-person event, we recommend supplying name tags and markers, or using plain paper to create table-displayed name placards.
->
-> Note that pronouns are personal and some participants might prefer not to share them.
-> Do not force people to share their pronouns.  We can't insist enough about that the use of pronouns should be completely optional. This is to avoid unintentionally outing anyone who might not be ready for that.
->
-> Some relevant resources about the use of pronouns are:
-> * The proper use of pronouns in language: https://lgbt.ucsf.edu/pronounsmatter
-> * The importance of using pronouns: https://www.mypronouns.org/
-> * How to use personal pronouns: https://www.mypronouns.org/how
-> * How to deal with situations when you use the wrong pronoun: https://www.mypronouns.org/mistakes
->
-> For non-native speakers, in the previous resources, it can be useful to read on how to use pronouns correctly when interacting with others online or at in-person events.
+## Pronouns and Names
+
+Using correct names and pronouns (e.g. "she/her") is important to setting a tone of respect. Learning these is hard to
+do quickly, so we recommend displaying it prominently during the workshop.
+
+In an online workshop, give everyone a moment to update their display name to reflect how they would like to be addressed.
+
+At an in-person event, we recommend supplying name tags and markers, or using plain paper to create table-displayed name placards.
+
+Note that pronouns are personal and some participants might prefer not to share them.
+Do not force people to share their pronouns.  We can't insist enough about that the use of pronouns should be completely optional. This is to avoid unintentionally outing anyone who might not be ready for that.
+
+Some relevant resources about the use of pronouns are:
+* The proper use of pronouns in language: https://lgbt.ucsf.edu/pronounsmatter
+* The importance of using pronouns: https://www.mypronouns.org/
+* How to use personal pronouns: https://www.mypronouns.org/how
+* How to deal with situations when you use the wrong pronoun: https://www.mypronouns.org/mistakes
+
+For non-native speakers, in the previous listed resources, it can be useful to read on how to use pronouns correctly when interacting with others online or at in-person events.
 
 {: .discussion}
 
